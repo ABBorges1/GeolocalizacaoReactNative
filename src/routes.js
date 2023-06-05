@@ -17,7 +17,7 @@ export default function Routes() {
             backgroundColor: '#581C87',
           },
           headerTitleStyle: {
-            color: '#F2F2F2',
+            color: '#fff',
             fontWeight: 'bold',
           }
         }} />
@@ -29,7 +29,7 @@ export default function Routes() {
             backgroundColor: '#581C87',
           },
           headerTitleStyle: {
-            color: '#F2F2F2',
+            color: '#fff',
             fontWeight: 'bold',
           }
         }}/>
